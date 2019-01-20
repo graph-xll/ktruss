@@ -11,7 +11,9 @@ The input graphs are in WebGraph format.
 There are three files in this format:
 
 *basename.graph* 
+
 *basename.properties* 
+
 *basename.offsets*
 
 Available datasets in this format can be found in: <http://law.di.unimi.it/datasets.php>
@@ -71,7 +73,9 @@ java -cp "lib/*" it.unimi.dsi.webgraph.Transform union cnr-2000-noself cnr-2000-
 Now we obtain the undirected simple graph in WebGraph as the input:
 
 *cnr-2000-noself-sym.graph* 
+
 *cnr-2000-noself-sym.properties*
+
 *cnr-2000-noself-sym.offsets *
 
 ## Compiling
