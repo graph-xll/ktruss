@@ -1,1 +1,1 @@
-# ktruss
+# Fast k-Truss Decomposition
